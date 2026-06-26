@@ -1,0 +1,12 @@
+{
+  "name": "marketplace-easedoc",
+  "version": "1.0.0",
+  "description": "Camada servidor MongoDB para marketplace",
+  "main": "src/examples/query-08-and-write-02.js",
+  "scripts": {
+    "example": "node src/examples/query-08-and-write-02.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
