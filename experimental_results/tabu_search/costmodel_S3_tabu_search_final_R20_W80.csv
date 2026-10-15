@@ -1,0 +1,2 @@
+volume,workload,search_strategy,tabu_tenure,max_iterations,max_no_improvement,iterations_executed,evaluated_candidates,visited_solutions,execution_time_seconds,schema,alpha_read,read_cost,write_cost,total_cost
+V1_properties_counts,W4_hybrid,tabu_search,7,80,20,20,192,16,0.010340699998778291,S3,0.2,0.0226,0.026000000000000002,0.025320000000000002
